@@ -1,5 +1,5 @@
 {
-    "name": "Viper-7/milvus",
+    "name": "viper7/milvus",
     "description": "PHP Client for the Milvus Rest API",
     "keywords": [
         "laravel",
