@@ -1,5 +1,5 @@
 {
-    "name": "helgesverre/milvus",
+    "name": "Viper-7/milvus",
     "description": "PHP Client for the Milvus Rest API",
     "keywords": [
         "laravel",
@@ -17,6 +17,11 @@
             "name": "Helge Sverre",
             "email": "helge.sverre@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Dale Horton",
+            "email": "viper7@viper-7.com",
+            "role": "Shamelessly forked for PHP 8.1 support"
         }
     ],
     "require": {
